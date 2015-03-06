@@ -1,2 +1,7 @@
-# hello-world
-Just Another repository
+hello-world
+===========
+
+Hi Humans!
+
+JeffBot here
+
